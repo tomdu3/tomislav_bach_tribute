@@ -1,5 +1,8 @@
 # Tomislav's Bach Tribute Web Page
 
+![Bach Tribute Web Page Screenshot](./assets/bach-tribute.png)
+
+
 A tribute page dedicated to the legendary composer Johann Sebastian Bach.
 
 This project showcases his life, works, and enduring legacy through a clean and responsive web design.
